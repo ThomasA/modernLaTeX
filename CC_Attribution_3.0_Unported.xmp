@@ -14,7 +14,8 @@
 		     >
       <xapRights:UsageTerms>
 	<rdf:Alt>
-	  <rdf:li xml:lang='x-default' >This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/3.0/&#34;&gt;Creative Commons Attribution-ShareAlike 3.0 Unported License&lt;/a&gt;.</rdf:li>
+	  <rdf:li xml:lang='x-default' >This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/3.0/&#34;&gt;Creative Commons Attribution 3.0 Unported License&lt;/a&gt;.</rdf:li>
+	  <rdf:li xml:lang='da' >Dette værk er licenseret under en &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/3.0/&#34;&gt;Creative Commons Navngivelse 3.0 Unported Licens&lt;/a&gt;.</rdf:li>
 	  </rdf:Alt>
       </xapRights:UsageTerms>
     </rdf:Description>
@@ -29,7 +30,7 @@
     </rdf:Description>
     <rdf:Description rdf:about=''
       xmlns:cc='http://creativecommons.org/ns#'>
-      <cc:license rdf:resource='http://creativecommons.org/licenses/by-sa/3.0/'/>
+      <cc:license rdf:resource='http://creativecommons.org/licenses/by/3.0/'/>
     </rdf:Description>
     <rdf:Description rdf:about=''
       xmlns:cc='http://creativecommons.org/ns#'>
